@@ -1,4 +1,9 @@
-### Hi there 👋
+### print('Hello, World') 🥳
+
+☕ Wanna talk? Let me see how I can be of value!
+
+* [LinkedIn](https://www.linkedin.com/in/daevidvo/)
+* [Email](mailto:daevidvo@gmail.com)
 
 <!--
 **daevidvo/daevidvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
