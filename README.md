@@ -1,6 +1,6 @@
 ### print('What's good?') 🥳
 
-☕ Wanna talk? Let me see how I can be of value!
+☕ Wanna talk? Check out my links below
 
 * [LinkedIn](https://www.linkedin.com/in/daevidvo/)
 * [Email](mailto:daevidvo@gmail.com)
