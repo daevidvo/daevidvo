@@ -1,7 +1,3 @@
-### print('What's good?') 🥳
-
-☕ Wanna talk? Check out my links below
-
 * [LinkedIn](https://www.linkedin.com/in/daevidvo/)
 * [Email](mailto:daevidvo@gmail.com)
 * [Instagram](https://www.instagram.com/daevidvo)
