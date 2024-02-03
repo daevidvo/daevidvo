@@ -1,6 +1,5 @@
 * [LinkedIn](https://www.linkedin.com/in/daevidvo/)
 * [Email](mailto:daevidvo@gmail.com)
-* [Instagram](https://www.instagram.com/daevidvo)
 
 <!--
 **daevidvo/daevidvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
